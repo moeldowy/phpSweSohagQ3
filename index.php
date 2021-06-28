@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-echo "<h1>hi SWE Sohag Q3</h1>";
+echo "<h1>SWE Sohag Q3</h1>";
 ?>
 <ul>
     <li><a href="Day1">Day1</a></li>
